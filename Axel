@@ -1,0 +1,8 @@
+flask==3.0.3
+gunicorn==23.0.0
+requests==2.32.3
+numpy==1.26.4
+scikit-learn==1.5.1
+pillow==10.4.0
+scipy==1.14.1
+werkzeug==3.0.6
